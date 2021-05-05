@@ -1,4 +1,4 @@
-package inheritanceOdev;
+
 
 public class User {
 	private String name;

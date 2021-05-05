@@ -1,4 +1,4 @@
-package inheritanceOdev;
+
 
 public class Instructor extends User{
 	private String instructorNumber;

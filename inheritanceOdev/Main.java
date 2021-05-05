@@ -1,4 +1,4 @@
-package inheritanceOdev;
+
 
 public class Main {
 	public static void main(String[] args) {
@@ -8,9 +8,9 @@ public class Main {
 		userManager1.add(new Student("Ravza", "046785162", "ranza@gmail.com", "90731645"));
 		System.out.println("");
 		
-//		UserManager userManager2 = new InstructorManager();  // alttakiyle aynı işi yapıyor.
+//		UserManager userManager2 = new InstructorManager();  // alttakiyle aynÃ½ iÃ¾i yapÃ½yor.
 		InstructorManager userManager2 = new InstructorManager();
-		userManager2.add(new Instructor("Aslı", "034658795", "@hadiordan", "5468792"));
+		userManager2.add(new Instructor("AslÃ½", "034658795", "@hadiordan", "5468792"));
 		UserManager userManager3 = new StudentManager();
 		userManager3.add(new Student());
 		System.out.println("");

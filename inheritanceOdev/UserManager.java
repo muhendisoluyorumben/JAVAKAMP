@@ -1,4 +1,4 @@
-package inheritanceOdev;
+
 
 public class UserManager {
 	User user=new User();

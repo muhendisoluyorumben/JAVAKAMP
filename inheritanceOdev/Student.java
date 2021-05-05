@@ -1,4 +1,4 @@
-package inheritanceOdev;
+
 
 public class Student extends User{
 	private String studentNumber;
